@@ -5,25 +5,29 @@ A web-based application which allows users to add, remove, and update items on a
 ## Project Screen Shots
 
 
+
 To-Do List Start Screen
 
-![To-Do List Start Screen](img/list-1.png "To start, please enter a task in the input box and click "Add Entry".")
+![To-Do List Start Screen](img/list-1.png "To start, please enter a task in the input box and click 'Add Entry'.")
 
 To start, please enter a task in the input box and click "Add Entry".
 
 
+
 List Item Added
 
-![List Item Added](img/list-2.png "The tasks will populate under the "Add Entry" button.")
+![List Item Added](img/list-2.png "The tasks will populate under the 'Add Entry' button.")
 
 The tasks will populate under the "Add Entry" button.
 
 
+
 Update An Entry
 
-![Update An Entry](img/list-3.png "To update an entry, please click on the "Edit" button. The text for that entry will convert into an input box. After you have typed in your update, please click the "Update" button.")
+![Update An Entry](img/list-3.png "To update an entry, please click on the 'Edit' button. The text for that entry will convert into an input box. After you have typed in your update, please click the 'Update' button.")
 
 To update an entry, please click on the "Edit" button. The text for that entry will convert into an input box. After you have typed in your update, please click the "Update" button.
+
 
 
 Your Updates Will Remain In Order
